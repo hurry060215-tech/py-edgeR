@@ -1,0 +1,7 @@
+GNU LESSER GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+This Python port is released under LGPL-3.0-or-later, matching the
+license of the upstream Bioconductor package it ports. The full
+LGPL-3 text is at https://www.gnu.org/licenses/lgpl-3.0.txt and
+applies to all files in this repository.
